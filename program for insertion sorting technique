@@ -17,7 +17,7 @@ void Insertionsort(int a[], int n)
 }
 
 int main()
-{   int array[5]= {12,30,23,7,5};
+{   int array[5]= {13,11,9,7,5};
     Insertionsort(array, 5);
     return 0;
 }
